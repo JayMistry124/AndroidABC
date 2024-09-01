@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "955208802107",
+    "project_id": "abcs-app-38da7",
+    "storage_bucket": "abcs-app-38da7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955208802107:android:752b19471dcb240802a11e",
+        "android_client_info": {
+          "package_name": "com.example.gamediploma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVu2QrDOOLvQhlLZiCIVXHRdjsIwe55p4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

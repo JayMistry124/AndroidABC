@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ABCs</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="english">English</string>
+    <string name="gujrati">Gujrati</string>
+
+    <string-array name="songs">
+        <item>Barish aayi Cham Cham Cham</item>
+        <item>Chanda Mama Door Ke</item>
+        <item>hum chote bache ache hain rhyme</item>
+        <item>lakdi ki kathi</item>
+        <item>nani teri morni ko mor le gaye</item>
+        <item>Ek Mota Hathi- Rhyme Poem</item>
+        <item>Gadi aayi gadi aayi chuk chuk</item>
+        <item>Titali udi bus me chadhi</item>
+    </string-array>
+
+
+    //Google
+    <string name="default_web_client_id" translatable="false">955208802107-840rra8td4ganb9pqp6uhsldpks4nrli.apps.googleusercontent.com</string>
+</resources>
